@@ -1,6 +1,6 @@
 # 复旦大学张双利教授：西方马克思主义哲学与批判理论方法论 (Zhang Shuangli Critical Theory & Western Marxism)
 
-[![Antigravity Skill](https://img.shields.io/badge/Antigravity-Custom%20Skill-blueviolet.svg)](https://github.com)
+[![Antigravity Skill](https://img.shields.io/badge/Antigravity-Custom%20Skill-blueviolet.svg)](https://github.com/zxz686/zhang-shuangli-critical-theory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 本项目系统收录了复旦大学哲学学院院长、博士生导师**张双利教授**在 YouTube 平台的公开课、前沿学术讲座、原著精读对谈与学术致辞的完整研读笔记，并将张双利教授独树一帜的**“总体性辩证法、政治经济学底座还原、物化解构与现代性病理学”**方法论凝练封装为开箱即用的 AI 智能体技能（Agent Skill）。
